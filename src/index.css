@@ -45,3 +45,11 @@ a {
   font-size: 24px;
   font-weight: 700;
 }
+
+.menu-active {
+  font-weight: 700;
+}
+
+.product-list p {
+  font-size: 16px;
+}
